@@ -5,6 +5,7 @@
 ! ->
 ||suggestion.baidu.com^
 ||ug.baidu.com^
+||360buyimg.com^
 ||ip.
 ||ip38.
 ||ip138.

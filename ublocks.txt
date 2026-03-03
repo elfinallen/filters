@@ -1,5 +1,5 @@
 ! Title: ublock Specific
-! Description: Specific Filter for PC & Mobile Browser.
+! Description: Specific URL & CSS Filter for PC & Mobile Browser.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
 /pro$domain=v2ex.com

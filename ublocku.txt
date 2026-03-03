@@ -2,7 +2,7 @@
 ! Description: Generic URL Filter for browser use. More aggressive than popular filters.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
-! -----> App down
+! -----> App
 /download_app
 /invokeBaidu
 /swanInvoke
@@ -23,8 +23,8 @@
 /debugger
 ! --> ads
 ||alicdn.com/kf/
-||alicdn.com/tps/
 ||alicdn.com/img/
+||alicdn.com/tps/
 /ad.js
 &ad_
 =ad&
