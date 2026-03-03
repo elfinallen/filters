@@ -1,0 +1,58 @@
+! Title: ublock Test
+! Description: Experiment Filter for browser, disable it when necessary.
+! Homepage: https://github.com/elfinallen/filters
+! Expires: 5 days
+! ->
+||suggestion.baidu.com^
+||ug.baidu.com^
+||ip.
+||ip38.
+||ip138.
+||ipapi.
+||ipinfo.
+||ip-api.
+||whois.
+||ipwho.
+||ipwhois.
+||ip-whois.
+||phpwhois.
+||pwhois.
+||whoisonline.
+/ad_
+-ad-
+_ad_
+_ad-
+-ads-
+-vip
+_vip
+/vip
+_log_
+/pay
+/marketing
+/count
+/collect
+/metric
+/metrica
+/metrics
+/metrika
+-monitor
+/monitor
+?sentry
+?tracker
+-cookie
+/consent
+/Privacy
+/announcement
+/not-found
+/js/jweixin
+/js/wxLogin
+/wechatJsSdk
+/spy-client
+/feedback
+/slardar
+/tracker
+/sufei
+/qrcode
+.qrcode
+/baiduad
+/zuihuimai
