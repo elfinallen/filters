@@ -1,5 +1,5 @@
 ! Title: ublock Test
-! Description: Experiment Filter for browser, disable it when necessary.
+! Description: Experiment Filter, disable it when necessary.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
 ! ->

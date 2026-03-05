@@ -1,5 +1,5 @@
-! Title: ublock URL
-! Description: Generic URL Filter for browser use. More aggressive than popular filters.
+! Title: ublock Generic
+! Description: Generic URL Filter, More aggressive than popular filters.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
 ! -----> App

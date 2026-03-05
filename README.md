@@ -7,7 +7,7 @@ Ad Block Filters modified from popular filters, more **aggressive** and **effici
 
 DNS Filter:	[Adguard DNS](https://cdn.jsdelivr.net/gh/elfinallen/adgauto@main/adgdns.txt)	[ublock DNS](https://cdn.jsdelivr.net/gh/elfinallen/filters@main/ublockd.txt)
 
-Generic Filter：https://cdn.jsdelivr.net/gh/elfinallen/filters@main/ublocku.txt
+Generic Filter：https://cdn.jsdelivr.net/gh/elfinallen/filters@main/ublockg.txt
 
 Specific Filter：https://cdn.jsdelivr.net/gh/elfinallen/filters@main/ublocks.txt
 

@@ -85,7 +85,7 @@ youtube.com##ad-slot-renderer
 /cycounter$domain=yandex.com
 yandex.com##.JustifierRowLayout-Incut
 yandex.com##.ImagesTouchViewer-Card_behavioralDirect
-images/$domain=presearch.com
+/images$domain=presearch.com
 /tiles$domain=presearch.com
 presearch.com##.justify-start
 presearch.com##.text-white.p-4
