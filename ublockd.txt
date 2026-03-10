@@ -212,16 +212,12 @@
 ||googlesyndication.com^
 ||umengcloud.com^
 ||umeng.com^
-||commerc*
-||pangolin*
-||firebase*
-||geoloc*
-||logserv*
 ||ad-
 ||ads-
 ||adv-
 ||adx-
 ||adgw-
+||ad.
 ||ad2.
 ||adapi.
 ||adcdn.
@@ -231,6 +227,7 @@
 ||adm.
 ||adreq.
 ||adtrack.
+||advert.
 ||adverts.
 ||adsdk.
 ||ads.

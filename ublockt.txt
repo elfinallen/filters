@@ -2,7 +2,6 @@
 ! Description: Experiment Filter, disable it when necessary.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
-! ->
 ||suggestion.baidu.com^
 ||ug.baidu.com^
 ||360buyimg.com^
@@ -19,41 +18,23 @@
 ||phpwhois.
 ||pwhois.
 ||whoisonline.
-/ad_
--ad-
-_ad_
-_ad-
--ads-
--vip
-_vip
-/vip
-_log_
-/pay
-/marketing
-/count
-/collect
-/metric
-/metrica
-/metrics
-/metrika
--monitor
-/monitor
-?sentry
-?tracker
--cookie
-/consent
-/Privacy
-/announcement
-/not-found
+marketing
+pay
+collect
+metric
+monitor
+sentry
+tracker
+cookie
+consent
+feedback
+announcement
 /js/jweixin
 /js/wxLogin
-/wechatJsSdk
-/spy-client
-/feedback
+/wechat
+/spy
 /slardar
-/tracker
 /sufei
 /qrcode
 .qrcode
 /baiduad
-/zuihuimai

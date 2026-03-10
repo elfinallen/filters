@@ -4,9 +4,6 @@
 ! Expires: 5 days
 ! -----> App
 /download_app
-/invokeBaidu
-/swanInvoke
-/swanapp
 /applinks
 /callApp
 /pullApp
@@ -295,7 +292,6 @@ _gtag.min.js
 /chartbeat.
 /clickcount.
 /clicks.
-/clickstream
 /clicktrack
 /clicktracker
 /clicktracking
