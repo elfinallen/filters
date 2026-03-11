@@ -315,7 +315,16 @@
 ||staticsns.cdn.bcebos.com^
 ||tieba-ares.cdn.bcebos.com^
 ! -> Generic
+-ad-
+-ad.
+-ads-
+-ads.
+||google.com^
 ||googleapis.com^
+||googleusercontent.com^
+||duckduckgo.com^
+||youtube.com^
+||facebook.com^
 ||googletagmanager.com^
 ||googletagservices.com^
 ||googlesyndication.com^
