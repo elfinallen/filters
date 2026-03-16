@@ -10,6 +10,7 @@
 ||stsdk.vivo.com.cn^
 ||st-sl.vivo.com.cn^
 ||appstore.vivo.com.cn^
+||brandlog.vivo.com.cn^
 ||topicstatic.vivo.com.cn^
 ||sentinelapi.vivo.com.cn^
 ||brandlog.vivo.com.cn^

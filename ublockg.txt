@@ -570,6 +570,7 @@ _counter
 _counters
 _event
 _events
+_log&
 _impression
 _metric
 _metrica
