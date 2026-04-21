@@ -30,7 +30,6 @@
 ||developer.qcloudimg.com^
 ||qccommunity.qcloudimg.com^
 ||ruanmei.com^
-||nosdn.127.net^
 ||ibytedapm.com^
 ||taisantech.com^
 ||statics.woozooo.com^

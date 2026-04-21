@@ -173,7 +173,6 @@ _gtag.min.js
 -collect
 -collector
 -comscore
--count
 -counter
 -counters
 -fingerprint
@@ -565,7 +564,6 @@ _gtag.min.js
 /wstats.
 /zaius.
 _beacon
-_count
 _counter
 _counters
 _event
