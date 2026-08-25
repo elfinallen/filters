@@ -22,6 +22,7 @@
 ||adverts.
 ||adx-
 ||adx.
+||abtest.
 ||cpro.
 ||doubleclick.
 ||jads.
@@ -39,6 +40,7 @@
 ||analytics.
 ||apm-
 ||apm.
+||apmplus.
 ||beacon.
 ||beaconcdn.
 ||bigdata.
@@ -68,12 +70,8 @@
 ||dsp.
 ||dsplog-
 ||dsplog.
-||event-
-||event.
 ||eventlog-
 ||eventlog.
-||events-
-||events.
 ||geo-
 ||geo.
 ||geoip-
@@ -91,6 +89,7 @@
 ||logs.
 ||logs2.
 ||logsdk.
+||monitor.
 ||pix.
 ||pixel.
 ||report-

@@ -13,7 +13,6 @@
 /open_app
 /jump-app
 /to_app
-/invoke
 /applog
 ! --> anti-adblock
 -adblock
@@ -645,7 +644,7 @@ _client_event
 /web_logs
 /web_logger
 /webstat
-/webtag.
+/webtag
 /webtrack
 /webvitals
 /web-vitals

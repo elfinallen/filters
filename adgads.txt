@@ -40,9 +40,6 @@ d.meituan.net
 live*.sankuai.com
 live.qcloud.com
 tlivesource.com
-artery.douban.com
-amonsul.douban.com
-erebor.douban.com
 duga.zhihu.com
 mqtt.zhihu.com
 sugar.zhihu.com

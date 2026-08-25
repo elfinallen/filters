@@ -30,6 +30,7 @@
 ||developer.qcloudimg.com^
 ||qccommunity.qcloudimg.com^
 ||msn.com^
+||skype.com^
 ||cn.bing.com^
 ||bat.bing.com^
 ||apppure.net^
@@ -69,7 +70,6 @@
 ||ezojs.com^
 ||ferlytc.com^
 ||flurry.com^
-||geetest.com^
 ||gifshow.com^
 ||giphy.com^
 ||gregneegnohoo.com^
@@ -201,7 +201,6 @@
 ||gdt.qq.com^
 ||huatuo.qq.com^
 ||iask.qq.com^
-||imtt.qq.com^
 ||isdspeed.qq.com^
 ||jingjia.qq.com^
 ||jqmt.qq.com^
@@ -244,7 +243,6 @@
 ||snowflake.qq.com^
 ||ssp.qq.com^
 ||stdl.qq.com^
-||store.qq.com^
 ||ta.qq.com^
 ||tajs.qq.com^
 ||taobao.qq.com^
@@ -270,7 +268,6 @@
 ||vmat.gtimg.com^
 ||wa.gtimg.com^
 ||wb.gtimg.com^
-||a.baidu.com^
 ||ada.baidu.com^
 ||adavideo.baidu.com^
 ||aden.baidu.com^
@@ -299,7 +296,6 @@
 ||cjie.baidu.com^
 ||cm.baidu.com^
 ||cpro.baidu.com^
-||cpro2.baidu.com^
 ||cpu.baidu.com^
 ||cpucdn.baidu.com^
 ||crab.baidu.com^
@@ -461,4 +457,3 @@
 -trk.com^
 -track.com^
 -tracking.com^
--tracking.net^
