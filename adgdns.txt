@@ -198,6 +198,7 @@
 *promo
 *prebid
 *pangolin
+*pglstatp
 *commerc
 *sponsor
 *tuiguang

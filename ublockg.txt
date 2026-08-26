@@ -287,8 +287,8 @@ _track_event
 /acecounter
 /addLinker
 /addLinkerEvents
-/aegis
 /affiliate
+/aegis.
 /alog.
 /amp.
 /amp-access
