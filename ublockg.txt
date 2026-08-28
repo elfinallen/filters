@@ -20,7 +20,6 @@
 /antiadblock
 /blockadblock
 /fuckadblock
-/debug
 /debugger
 /disable-devtool
 ! --> ads
@@ -525,7 +524,6 @@ _client_event
 /matomo
 /metric
 /mistat
-/monitor
 /mpulse.
 /mtracking.
 /new-relic.
