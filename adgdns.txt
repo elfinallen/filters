@@ -28,8 +28,6 @@
 ||mihoyo.com^
 ||biligame.net^
 ||biligame.com^
-||cm.bilibili.cn^
-||cm.bilibili.com^
 ||mall.bilibili.cn^
 ||mall.bilibili.com^
 ||game.bilibili.com^

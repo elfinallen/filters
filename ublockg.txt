@@ -380,7 +380,6 @@ _client_event
 /collector
 /comscore
 /consent
-/count
 /counter
 /countly
 /countpixel

@@ -3,16 +3,6 @@
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
 /assets/js$domain=tophub.today
-/media$domain=ai.dangbei.com
-||123pan.cn/*=web_ads
-||123pan.com/static/ks/
-/video$domain=123pan.cn
-/image$domain=123pan.cn
--guide$domain=123pan.cn
-/slogan$domain=123pan.cn
-_background$domain=123pan.cn
-_vip$domain=123pan.cn
-123pan.cn##.app-header
 /HK-Android.$domain=52ybcj.com
 /HK-PC.$domain=52ybcj.com
 /countdown.$domain=52ybcj.com
@@ -71,6 +61,13 @@ apkmirror.com###bottom-slider
 youtube.com##[class*="-ad-"]
 youtube.com##ad-slot-renderer
 search.brave.com##footer
+duck.ai##aside
+/dom-to-image$domain=itdog.cn
+/images$domain=itdog.cn
+/china$domain=itdog.cn
+itdog.cn##header
+itdog.cn##.gg_link
+itdog.cn##.top-recruit-notice-wrap
 ||icon.$script,domain=zol.com.cn
 ||detail.$script,domain=zol.com.cn
 /images$domain=zol.com.cn
@@ -109,6 +106,15 @@ ithome.com##.placeholder:has(.tip)
 163.com##.slider-footer
 163.com##.comment-footer-left
 163.com##[class*="opennewsapp"i]
+||123pan.cn/*=web_ads
+||123pan.com/static/ks/
+/video$domain=123pan.cn
+/image$domain=123pan.cn
+-guide$domain=123pan.cn
+/slogan$domain=123pan.cn
+_background$domain=123pan.cn
+_vip$domain=123pan.cn
+123pan.cn##.app-header
 game$domain=qq.com
 qimei$domain=qq.com
 getSub$domain=qq.com
@@ -148,6 +154,8 @@ view.inews.qq.com##[class^="slider-top"]
 baike.baidu.com##[class*="media"i]
 baike.baidu.com##[class*="second"i]
 baike.baidu.com##[class*="tashuo"i]
+baike.baidu.com##[class^="index_flower"]
+baike.baidu.com##[class^="index_wrapper"]
 baike.baidu.com##[class^="posterMiddle"]
 lzizy.com##header
 lzizy.com##.lzm3u8

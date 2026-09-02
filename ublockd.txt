@@ -424,7 +424,6 @@
 ||zz.bdstatic.com^
 ||fex.bdstatic.com^
 ||sofire.bdstatic.com^
-||bj.bcebos.com^
 ||baikevideo.cdn.bcebos.com^
 ||cms-image.cdn.bcebos.com^
 ||cocojen.cdn.bcebos.com^
