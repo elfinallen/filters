@@ -38,8 +38,6 @@
 ||adlog.
 ||adxlog.
 ||analytics.
-||apm-
-||apm.
 ||apmplus.
 ||beacon.
 ||beaconcdn.

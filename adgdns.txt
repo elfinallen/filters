@@ -193,7 +193,6 @@
 *adashx
 *baichuan
 *cookie
-*promo
 *prebid
 *pangolin
 *pglstatp
