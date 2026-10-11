@@ -156,6 +156,9 @@ baike.baidu.com##[class*="second"i]
 baike.baidu.com##[class*="tashuo"i]
 baike.baidu.com##[class^="index_flower"]
 baike.baidu.com##[class^="index_wrapper"]
+baike.baidu.com##[class^="index_errorCorrect"]
+baike.baidu.com##[class^="index_feedback"]
+baike.baidu.com##[class^="index_isBottom"]
 baike.baidu.com##[class^="posterMiddle"]
 lzizy.com##header
 lzizy.com##.lzm3u8
