@@ -228,6 +228,7 @@ _gtag.min.js
 /at.js
 /eg.js
 /hm.js
+/pv.js
 /px.js
 /ping.js
 /quant.js
@@ -405,7 +406,6 @@ _client_event
 /event_logging
 /event_collect
 /events-collect
-/event_report
 /event/report
 /events/track
 /eventtracker
@@ -542,9 +542,8 @@ _client_event
 /prod/collect
 /prod/dfm
 /pushlog.
-/pv_count.
-/pvcount.
-/pvcounter.
+/pv_count
+/pvcount
 /pvlog.
 /r.png?
 /report
