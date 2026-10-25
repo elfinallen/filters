@@ -156,7 +156,6 @@
 ||nex.163.com^
 ||corp.163.com^
 ||nosdn.127.net^
-||music.126.net^
 ||ipservice.ws.126.net^
 ||vmonitor.ws.netease.com^
 ||galileotelemetry.tencent.com^
