@@ -2,13 +2,7 @@
 ! Description: Mobile APP DNS Filter for Adguard.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
-! -> ISP
-||id6.me^
-||189.cn^
-||21cn.com^
-||10086.cn^
-||cmpassport.com^
-! -> APPs
+! -> popular
 -x.jd.com^
 -stsdk.vivo.com.cn^
 -static.vivo.com.cn^
@@ -16,11 +10,9 @@
 ||xiaomi.net^
 ||xiaomi.com^
 ||wwstat.com^
-||appstore.vivo.com.cn^
 ||brandlog.vivo.com.cn^
 ||browserconf.vivo.com.cn^
 ||browserplat.vivo.com.cn^
-||imgwsdl.vivo.com.cn^
 ||sentinelapi.vivo.com.cn^
 ||st-sl.vivo.com.cn^
 ||stsdk.vivo.com.cn^

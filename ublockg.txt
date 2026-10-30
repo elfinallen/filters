@@ -581,7 +581,6 @@ _client_event
 /stat.php
 /statcount
 /statcollect
-/statistics
 /stats|
 /stats?
 /stats.php
