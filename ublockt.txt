@@ -104,9 +104,3 @@
 ||weblog.
 ||xlog.
 ||zhanzhang.
-! -> ISP
-||id6.me^
-||189.cn^
-||21cn.com^
-||10086.cn^
-||cmpassport.com^
