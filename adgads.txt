@@ -2,11 +2,9 @@
 ! Description: Mobile APP Filter for Adguard, global match.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
-appstore.vivo.com.cn
 brandlog.vivo.com.cn
 browserconf.vivo.com.cn
 browserplat.vivo.com.cn
-imgwsdl.vivo.com.cn
 sentinel.vivo.com.cn
 sentinelapi.vivo.com.cn
 st-sl.vivo.com.cn
@@ -21,7 +19,6 @@ mall.bilibili.com
 game.bilibili.com
 show.bilibili.com
 live.bilibili.com
-gaoneng.bilibili.com
 live*.xiaohongshu.com
 live*.xhscdn.com
 wkanx.com

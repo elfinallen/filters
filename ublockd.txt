@@ -28,6 +28,7 @@
 ||ask.qcloudimg.com^
 ||developer.qcloudimg.com^
 ||qccommunity.qcloudimg.com^
+||vip.com^
 ||msn.com^
 ||skype.com^
 ||cn.bing.com^
@@ -117,6 +118,9 @@
 ||whitetrafsa.com^
 ||wldmarket.com^
 ||zztfly.com^
+||unity3d.com^
+||ptengine.com^
+||ptengine.cn^
 ||t4m.cn^
 ||url.cn^
 ||itc.cn^

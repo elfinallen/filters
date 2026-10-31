@@ -7,9 +7,12 @@
 -stsdk.vivo.com.cn^
 -static.vivo.com.cn^
 -sentinel.vivo.com.cn^
+||quark.cn^
+||ucweb.com^
 ||xiaomi.net^
 ||xiaomi.com^
 ||wwstat.com^
+||adxst.vivo.com.cn^
 ||brandlog.vivo.com.cn^
 ||browserconf.vivo.com.cn^
 ||browserplat.vivo.com.cn^
@@ -25,7 +28,6 @@
 ||game.bilibili.com^
 ||show.bilibili.com^
 ||live.bilibili.com^
-||gaoneng.bilibili.com^
 ||live*.xiaohongshu.com^
 ||live*.xhscdn.com^
 ||wkanx.com^
@@ -60,6 +62,7 @@
 ||cc.m.jd.com^
 ||cm.jd.com^
 ||du.jd.com^
+||fireclick.jd.com^
 ||firevent.jd.com^
 ||gia.jd.com^
 ||janapi.jd.com^
@@ -167,10 +170,6 @@
 ||duckduckgo.com^
 ||youtube.com^
 ! -> keywords
-||event-
-||event.
-||events-
-||events.
 -ad-
 -ad.
 -ads-
