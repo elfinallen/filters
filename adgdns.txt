@@ -1,5 +1,5 @@
 ! Title: Adguard Mobile DNS
-! Description: Mobile APP DNS Filter for Adguard.
+! Description: Mobile APP DNS Filter.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
 ! -> popular
@@ -87,7 +87,6 @@
 ||skdisplay.jd.com^
 ||stat.m.jd.com^
 ||uranus.jd.com^
-||yangkeduo.com^
 ||live*.pddpic.com^
 ||video*.pddpic.com^
 ||live*.pddugc.com^

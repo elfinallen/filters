@@ -1,5 +1,5 @@
 ! Title: ublock Test
-! Description: Experiment Filter.
+! Description: Experiment DNS Filter.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
 ||ad-

@@ -1,5 +1,5 @@
 ! Title: ublock Generic
-! Description: Generic Filter, block AD & tracker & announce, more aggressive than popular filters.
+! Description: Generic Filter, block AD & Tracker & Annoyance, more aggressive than popular filters.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
 ! --> App
@@ -573,6 +573,7 @@ _client_event
 /smarttag
 /smetrics
 /snowplow
+/surveys
 /stat|
 /stat?
 /stat-dfp
