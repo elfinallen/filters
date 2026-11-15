@@ -108,6 +108,7 @@ ithome.com##.placeholder:has(.tip)
 163.com##[class*="opennewsapp"i]
 ||123pan.cn/*=web_ads
 ||123pan.com/static/ks/
+/img/entry$domain=123pan.cn
 /video$domain=123pan.cn
 /image$domain=123pan.cn
 -guide$domain=123pan.cn

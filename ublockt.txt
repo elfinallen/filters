@@ -2,20 +2,22 @@
 ! Description: Experiment DNS Filter.
 ! Homepage: https://github.com/elfinallen/filters
 ! Expires: 5 days
+-adnet.
+-mon.
+-pglstatp.
+.pglstatp-
+/pglstatp-
 ||ad-
 ||ad.
 ||adapi.
 ||adcdn.
 ||adgeo.
-||adimg.
-||adjust.
 ||adm-
 ||adm.
 ||adn-
 ||adn.
 ||adnet-
 ||adnet.
-||adreq.
 ||ads-
 ||ads.
 ||adsdk.
@@ -30,12 +32,8 @@
 ||abtest-
 ||abtest.
 ||cpro.
-||doubleclick.
 ||jads.
 ||jpush.
-||lianmeng.
-||pagead.
-||pagead2.
 ||push-
 ||push.
 ||24log.
@@ -47,10 +45,10 @@
 ||analytics.
 ||apm-
 ||apm.
-||apmplus.
 ||beacon-
 ||beacon.
 ||bigdata.
+||click-
 ||click.
 ||cnzz.
 ||collect-
@@ -68,7 +66,6 @@
 ||counter-
 ||counter.
 ||crash.
-||crashlytics.
 ||csp-
 ||csp.
 ||dsp-
@@ -94,6 +91,8 @@
 ||logs.
 ||logs2.
 ||logsdk.
+||mcs.
+||mon.
 ||monitor-
 ||monitor.
 ||px-
@@ -113,4 +112,3 @@
 ||ulog.
 ||weblog.
 ||xlog.
-||zhanzhang.

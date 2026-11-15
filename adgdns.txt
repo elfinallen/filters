@@ -7,11 +7,10 @@
 -stsdk.vivo.com.cn^
 -static.vivo.com.cn^
 -sentinel.vivo.com.cn^
-||quark.cn^
-||ucweb.com^
 ||xiaomi.net^
 ||xiaomi.com^
 ||wwstat.com^
+||adreq.vivo.com.cn^
 ||adxst.vivo.com.cn^
 ||brandlog.vivo.com.cn^
 ||browserconf.vivo.com.cn^
@@ -167,12 +166,11 @@
 *alimama
 *adserv
 *advert
-*adashx
+*adash
 *baichuan
 *cookie
 *prebid
 *pangolin
-*pglstatp
 *commerc
 *sponsor
 *tuiguang
@@ -188,8 +186,6 @@
 *monitor
 *report
 *sentry
-*shiply
-*trace
 *track
 ! -> ISP
 ||id6.me^

@@ -74,7 +74,6 @@ _ads_
 /adunit
 =adunit
 ?adid=
--adnet
 -adsens
 -adserv
 -advert
@@ -85,8 +84,9 @@ _ads_
 /adfloat
 /adfox
 /admanager
-/adsense
-/adserve
+/adsens
+/adserv
+/adsrv
 /adtrack
 /advert
 /adwap
@@ -230,7 +230,10 @@ _gtag.min.js
 /hm.js
 /pv.js
 /px.js
+/broadcast.js
+/challenge.js
 /ping.js
+/puzzle.js
 /quant.js
 /quantcast.js
 _stat.js
@@ -250,6 +253,7 @@ _tj.js
 .gif?
 -cnzz
 .cnzz
+.cn/collect
 .com/collect
 .net/collect
 .com/stat.
@@ -286,7 +290,6 @@ _track_event
 /addLinker
 /addLinkerEvents
 /affiliate
-/aegis.
 /alog.
 /amp.
 /amp-access
