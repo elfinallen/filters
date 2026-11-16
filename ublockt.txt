@@ -105,6 +105,7 @@
 ||report.
 ||reports-
 ||reports.
+||stun.
 ||tjlog.
 ||tongji.
 ||trace.

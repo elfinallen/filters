@@ -7,8 +7,6 @@
 -stsdk.vivo.com.cn^
 -static.vivo.com.cn^
 -sentinel.vivo.com.cn^
-||xiaomi.net^
-||xiaomi.com^
 ||wwstat.com^
 ||adreq.vivo.com.cn^
 ||adxst.vivo.com.cn^
@@ -19,6 +17,12 @@
 ||st-sl.vivo.com.cn^
 ||stsdk.vivo.com.cn^
 ||vnote.vivo.com.cn^
+||aiclk.com^
+||dongfou.com^
+||huixuanjiasu.com^
+||mongac.com^
+||njzywangluo.com^
+||wingmob.com^
 ||mihoyo.com^
 ||biligame.net^
 ||biligame.com^
@@ -186,7 +190,6 @@
 *monitor
 *report
 *sentry
-*track
 ! -> ISP
 ||id6.me^
 ||189.cn^

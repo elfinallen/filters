@@ -31,6 +31,7 @@
 /account$domain=apkpure.com
 -shares$domain=apkpure.com
 apkpure.com##[class*="-ad-"]
+apkpure.com##.tube
 apkpure.com##.faq-box
 apkpure.com##.cmt-wrap
 apkpure.com##.share-box
@@ -41,11 +42,14 @@ apkpure.com##.topic-module
 apkpure.com##.follow-warp
 apkpure.com##.telegram-btn
 apkpure.com##.aipure-button
+apkpure.com##.secondary-body
 apkpure.com##.search-telegram
 apkpure.com##.how-to-link
 apkpure.com##.how-to-install
 apkpure.com##.details_how_to
 apkpure.com##.aegon-down-item
+apkpure.com##.available-platform
+apkpure.com##.virus-total-module
 apkpure.com##.category-apk-swiper
 apkpure.com##.float-button-second
 apkpure.com##.download-vip-subscribe
