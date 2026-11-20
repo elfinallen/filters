@@ -23,9 +23,7 @@
 52ybcj.com##.copyright-post
 52ybcj.com##.header-top
 52ybcj.com##.pub-mask
-52pojie.cn##.pbn,[id^="stickthread"]
 /aprojectadmin$domain=apkpure.com
-/js/device$domain=apkpure.com
 /dt_report$domain=apkpure.com
 /dt_sdk$domain=apkpure.com
 /account$domain=apkpure.com
@@ -156,6 +154,7 @@ view.inews.qq.com##[class^="slider-top"]
 /ipLocation$domain=baidu.com
 /tc?tcreq4log$domain=baidu.com
 /landing-share$domain=baidu.com
+www.baidu.com##.c-container.result-op
 baike.baidu.com##[class*="media"i]
 baike.baidu.com##[class*="second"i]
 baike.baidu.com##[class*="tashuo"i]

@@ -759,3 +759,7 @@ _cookiesaccept
 ##.ad
 ##.ads
 ##.adsbygoogle
+##[id*="sponsor"i]
+##[id*="promotion"i]
+##[class*="sponsor"i]
+##[class*="promotion"i]

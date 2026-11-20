@@ -33,7 +33,6 @@
 ||vip.com^
 ||msn.com^
 ||skype.com^
-||cn.bing.com^
 ||bat.bing.com^
 ||apppure.net^
 ||cdnpure.com^

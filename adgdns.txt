@@ -150,8 +150,6 @@
 ||getui.net^
 ||msn.com^
 ||msn.net^
-||bing.com^
-||bing.net^
 ||gstatic.com^
 ||google.com^
 ||googleapis.com^
