@@ -179,7 +179,6 @@
 ||fa.163.com^
 ||du.163.com^
 ||nex.163.com^
-||nosdn.127.net^
 ||ipservice.ws.126.net^
 ||vmonitor.ws.netease.com^
 ||galileotelemetry.tencent.com^
