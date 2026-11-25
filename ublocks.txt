@@ -58,8 +58,12 @@ apkpure.com###search-article-list
 apkpure.com##.chrome-install-pop
 apkpure.com##.nav_download_manage_pop
 apkmirror.com##.ains
-apkmirror.com###sidebar
+apkmirror.com##.notes
+apkmirror.com##.addpadding
+apkmirror.com##.responsive-embed
+apkmirror.com##.gallery-container
 apkmirror.com###bottom-slider
+apkmirror.com###sidebar
 youtube.com##[class*="-ad-"]
 youtube.com##ad-slot-renderer
 search.brave.com##footer
@@ -118,6 +122,9 @@ ithome.com##.placeholder:has(.tip)
 _background$domain=123pan.cn
 _vip$domain=123pan.cn
 123pan.cn##.app-header
+Premium$domain=outlook.live.com
+Subscribe$domain=outlook.live.com
+subscription$domain=outlook.live.com
 game$domain=qq.com
 qimei$domain=qq.com
 getSub$domain=qq.com
@@ -154,6 +161,7 @@ view.inews.qq.com##[class^="slider-top"]
 /ipLocation$domain=baidu.com
 /tc?tcreq4log$domain=baidu.com
 /landing-share$domain=baidu.com
+/spy-client$domain=baidu.com
 www.baidu.com##.c-container.result-op
 baike.baidu.com##[class*="media"i]
 baike.baidu.com##[class*="second"i]

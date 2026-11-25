@@ -16,7 +16,6 @@
 ||sentinelapi.vivo.com.cn^
 ||st-sl.vivo.com.cn^
 ||stsdk.vivo.com.cn^
-||vnote.vivo.com.cn^
 ||aiclk.com^
 ||dongfou.com^
 ||huixuanjiasu.com^
@@ -186,7 +185,6 @@
 *geoloc
 *metrics
 *monitor
-*report
 *sentry
 ! -> ISP
 ||id6.me^
