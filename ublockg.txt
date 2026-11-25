@@ -97,6 +97,7 @@ _sponsor
 /advert
 /adwap
 /baiduad
+/commerc
 /delivery
 /dfp-
 /dfp.
@@ -118,6 +119,7 @@ _sponsor
 /ogads-
 /pagead
 /partnerad
+/pcwapad.
 /prebid
 /promo
 /push
@@ -131,6 +133,7 @@ _sponsor
 /tuisong
 /umeng
 /videoad
+/vipInfo
 /woodpecker
 /zanzhu
 ! --> Privacy

@@ -58,7 +58,6 @@ apkpure.com###search-article-list
 apkpure.com##.chrome-install-pop
 apkpure.com##.nav_download_manage_pop
 apkmirror.com##.ains
-apkmirror.com##.notes
 apkmirror.com##.addpadding
 apkmirror.com##.responsive-embed
 apkmirror.com##.gallery-container
